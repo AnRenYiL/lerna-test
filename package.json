@@ -1,7 +1,23 @@
 {
-  "name": "root",
+  "name": "@my-lerna-test-code/root",
   "private": true,
   "devDependencies": {
     "lerna": "^3.20.2"
-  }
+  },
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnRenYiL/lerna-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnRenYiL/lerna-test/issues"
+  },
+  "homepage": "https://github.com/AnRenYiL/lerna-test#readme"
 }

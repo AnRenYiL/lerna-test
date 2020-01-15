@@ -1,5 +1,5 @@
 {
-  "name": "module-1",
+  "name": "@my-lerna-test-code/lerna-test-1",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "b261257d103f20bc41e497bb49a946b43c20237f"
+  "gitHead": "7dcc053f9465d4f48991b9f073f66132d841a78a"
 }
