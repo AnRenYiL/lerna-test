@@ -1,5 +1,5 @@
 {
-  "name": "@my-lerna-test-code/lerna-test-1",
+  "name": "@my-anrenyil/lerna-test-1",
   "version": "0.1.2",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "38ea6813fe59461e6bc78c44c1fc528d7dcd6e8c",
+  "gitHead": "f10c9dea628e1c60f243f7ab32f2530af335fdb7",
   "publishConfig": {
     "access": "public"
   }

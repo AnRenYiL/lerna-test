@@ -1,5 +1,5 @@
 {
-  "name": "@my-lerna-test-code/root",
+  "name": "@my-anrenyil/root",
   "private": true,
   "devDependencies": {
     "lerna": "^3.20.2"
